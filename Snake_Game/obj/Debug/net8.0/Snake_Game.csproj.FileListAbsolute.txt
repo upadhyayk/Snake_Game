@@ -1,0 +1,14 @@
+/Users/kratiupadhyay/Documents/Projects/Snake_Game/Snake_Game/bin/Debug/net8.0/Snake_Game
+/Users/kratiupadhyay/Documents/Projects/Snake_Game/Snake_Game/bin/Debug/net8.0/Snake_Game.deps.json
+/Users/kratiupadhyay/Documents/Projects/Snake_Game/Snake_Game/bin/Debug/net8.0/Snake_Game.runtimeconfig.json
+/Users/kratiupadhyay/Documents/Projects/Snake_Game/Snake_Game/bin/Debug/net8.0/Snake_Game.dll
+/Users/kratiupadhyay/Documents/Projects/Snake_Game/Snake_Game/bin/Debug/net8.0/Snake_Game.pdb
+/Users/kratiupadhyay/Documents/Projects/Snake_Game/Snake_Game/obj/Debug/net8.0/Snake_Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kratiupadhyay/Documents/Projects/Snake_Game/Snake_Game/obj/Debug/net8.0/Snake_Game.AssemblyInfoInputs.cache
+/Users/kratiupadhyay/Documents/Projects/Snake_Game/Snake_Game/obj/Debug/net8.0/Snake_Game.AssemblyInfo.cs
+/Users/kratiupadhyay/Documents/Projects/Snake_Game/Snake_Game/obj/Debug/net8.0/Snake_Game.csproj.CoreCompileInputs.cache
+/Users/kratiupadhyay/Documents/Projects/Snake_Game/Snake_Game/obj/Debug/net8.0/Snake_Game.dll
+/Users/kratiupadhyay/Documents/Projects/Snake_Game/Snake_Game/obj/Debug/net8.0/refint/Snake_Game.dll
+/Users/kratiupadhyay/Documents/Projects/Snake_Game/Snake_Game/obj/Debug/net8.0/Snake_Game.pdb
+/Users/kratiupadhyay/Documents/Projects/Snake_Game/Snake_Game/obj/Debug/net8.0/Snake_Game.genruntimeconfig.cache
+/Users/kratiupadhyay/Documents/Projects/Snake_Game/Snake_Game/obj/Debug/net8.0/ref/Snake_Game.dll
